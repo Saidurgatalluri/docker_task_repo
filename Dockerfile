@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:stable-alpine
 MAINTAINER name Saidurga
 LABEL this is my docker file 
 EXPOSE 80
